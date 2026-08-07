@@ -21,7 +21,7 @@ build: deps-javascript
 
 .PHONY: deps-javascript
 deps-javascript:
-	$(NPM) install --unsafe-perm
+	$(NPM) install
 
 .PHONY: install-prereqs
 install-prereqs:
