@@ -1,4 +1,5 @@
 import {chart} from 'highcharts';
+import 'highcharts/modules/accessibility';
 import {orderByDate} from '../utils/orderByDate';
 
 const buildJSONView = (container, response) => {
