@@ -46,7 +46,7 @@ make watch-serve PORT=8000
 
 ### Using Local Paths
 
-You can also load API specs from your local machine. 
+You can also load API specs from your local machine.
 Just provide the file path instead of a URL, and the app will figure out if it's local or remote.
 
 Example:
@@ -90,6 +90,6 @@ See [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### License
 
-Copyright © 2017-2024, Office for National Statistics (<https://www.ons.gov.uk>)
+Copyright © 2017-2026, Office for National Statistics (<https://www.ons.gov.uk>)
 
-Released under MIT license, see [LICENSE](LICENSE.md) for details. 
+Released under MIT license, see [LICENSE](LICENSE.md) for details.
